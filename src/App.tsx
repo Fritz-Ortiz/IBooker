@@ -4,7 +4,7 @@ import {Routes, Route} from 'react-router-dom'
 import './globals.css';
 import SigninForm from './_auth/forms/SigninForm';
 import { Home } from './_root/pages';
-import SignUpForm from './_auth/forms/SignUpForm';
+import SignUpForm from './_auth/forms/SignupForm';
 import AuthLayout from './_auth/AuthLayout';
 import RootLayout from './_root/RootLayout';
 
